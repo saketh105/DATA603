@@ -23,6 +23,8 @@ Social media posts, site logs, health information, money transactions, and senso
 - Semi-structured data is not restricted by a fixed schema for managing and storing data. The data is not cleanly arranged into rows and columns and is not in relational format, like in a spreadsheet. However, there are some attributes, such as key-value pairs, that help distinguish between different entities.
 
 
+
+
 > ## Examples
 
 **_1. Social Media Data:_** Social media sites create massive volumes of data in real time, such as user comments, likes, shares, and clicks. In order to extract insights and trends from this data, which is frequently unstructured, advanced analytics technologies are needed.
@@ -45,6 +47,8 @@ Social media posts, site logs, health information, money transactions, and senso
 - ***Value:*** The utility of the data in generating insights and making defensible decisions is discussed.
 
 - ***Variability:*** The word "variability" describes the differences and discrepancies found in the data.
+
+
 
 
 > ## The phases of big data analysis are:
@@ -74,4 +78,6 @@ Social media posts, site logs, health information, money transactions, and senso
 
 - ***Ethical considerations:*** Big Data analysis poses ethical questions concerning the use and exploitation of personal information, which necessitates careful thought and planning.
 
-
+> ## Sources
+- https://www.selecthub.com/big-data-analytics/types-of-big-data-analytics/
+- https://www.simplilearn.com/challenges-of-big-data-article
